@@ -29,6 +29,7 @@ _(most should be separate anyway)_
 - Cron jobs - are generally discouraged due to difficulty in documenting, requiring someone with both server and application knowledge to maintain, and usually being inefficient. We usually suggest things like web hooks instead.
 
 </Notes>
+
 ## Who uses Vercel?
 
 - Airbnb
@@ -49,6 +50,7 @@ _(most should be separate anyway)_
 We want to use stable, high-quality tools created and used by the best teams in the industry
 
 </Notes>
+
 ## Why are we adding this?
 
 - focus on creating instead of hosting
@@ -61,7 +63,9 @@ We want to use stable, high-quality tools created and used by the best teams in 
 - clients generally don't want to spend money here, but we're still blamed if something bad happens - regardless of what agreements say
 
 </Notes>
+
 ## Why should I care?
+
 ### Better workflow
 
 #### Previous
@@ -114,6 +118,7 @@ URL for _every_ point of development
   - proofing
 
 </Notes>
+
 ### Preview URLs - Example
 
 - [version 1](https://christensenarms-selector-tool-cn7njmpu5-gsandf1.vercel.app/#WzAsMF0)
@@ -127,6 +132,7 @@ URL for _every_ point of development
 - on "see all" - show preview, "Promote to Production", etc.
 
 </Notes>
+
 ### “Serverless”
 
 Very minimal configuration required
@@ -169,6 +175,7 @@ That would NOT include:
 Also, in our AWS setup, we typically need 3 servers for 1 project. Just doing 1 project using Vercel, we start saving money.
 
 </Notes>
+
 ## What projects will use Vercel?
 
 ✅ static sites<br />
